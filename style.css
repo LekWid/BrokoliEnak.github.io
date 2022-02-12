@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
+.jumbotron {
+  padding-top: 1rem;
+}
+.jumbotron1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.Footer {
+  background-color: #0099ff;
+  font-weight: lighter;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px;
+}
